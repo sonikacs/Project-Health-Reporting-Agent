@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+logs/
+outputs/
+node_modules/
+
+*.zip
+submission_upload_safe/
+
+.env
+.venv/
+venv/
